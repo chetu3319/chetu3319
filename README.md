@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👨🏽‍💻
+Engineer + Prototyper + Interaction Designer
+
+⚡️ Compiling the future of spatial computing
+
 
 <!--
 **chetu3319/chetu3319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
