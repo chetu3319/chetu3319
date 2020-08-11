@@ -1,4 +1,5 @@
-### 👨🏽‍💻
+# 👨🏽‍💻 
+
 Engineer + Prototyper + Interaction Designer
 
 ⚡️ Compiling the future of spatial computing
